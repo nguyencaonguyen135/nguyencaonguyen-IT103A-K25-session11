@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Quicksand', sans-serif;
+    font-family: sans-serif;
     background: #FFF8F0;
     color: #3C2F2F;
     line-height: 1.6;
@@ -34,8 +34,8 @@ header {
 }
 
 .logo {
-    font-family: 'Playfair Display', serif;
-    font-size: 2.2rem;
+    font-family: serif;
+    font-size: 30px;
     color: #E76F51;
 }
 
@@ -109,7 +109,7 @@ nav {
 
 .section-title {
     text-align: center;
-    font-family: 'Playfair Display', serif;
+    font-family: serif;
     font-size: 3rem;
     margin-bottom: 60px;
     color: #E76F51;
@@ -186,7 +186,7 @@ nav {
 
 .menu-item-name {
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 15px;
 }
 
 .menu-item-price {
@@ -222,7 +222,7 @@ footer {
 
 .footer-col h3 {
     font-family: serif;
-    font-size: 1.5rem;
+    font-size: 20px;
     color: #E76F51;
     margin-bottom: 10px;
 }
